@@ -9,4 +9,6 @@ Write a script that summarizes and processes sales data into different categorie
 Generate a PDF using Python
 Automatically send a PDF by email
 
-PDF output name: A Complete Inventory of My Fruit
+emails.py  # send emails
+reports.py  # generate PDF files
+cars.py  # uses reports and emails to create a report and then send it by email
